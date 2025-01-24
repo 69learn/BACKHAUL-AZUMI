@@ -75,12 +75,7 @@
 
 <div align="right">
   <a href="https://www.youtube.com/watch?v=AjNrYOpNaQE">
-    <img src="https://img.youtube.com/vi/AjNrYOpNaQE/0.jpg" alt="Video Title" width="300">
-  </a>
-</div>
-<div align="right">
-  <a href="https://www.youtube.com/watch?v=Avi8ErLPJJE">
-    <img src="https://img.youtube.com/vi/Avi8ErLPJJE/0.jpg" alt="Video Title" width="300">
+    <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/backhaul.jpg" alt="Video Title" width="300">
   </a>
 </div>
   </details>
